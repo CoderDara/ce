@@ -11,8 +11,8 @@ Global:
   LogItems: true
   LogEnchantments: true
  Runecrafting:
-  Enabled: true
-  Disenchanting: true
+  Enabled: false
+  Disenchanting: false
   CanStackEnchantments: true
   TransformationEffect: true
  Books:
